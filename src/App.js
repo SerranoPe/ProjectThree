@@ -208,7 +208,7 @@ function toggleTaskCompleted(id) {
 
     <div className="todoapp stack-large">
 
-<img class="image" src={require('./components/Banner.png')} />
+<img class="image" src={require('./components/Banner.png')}/>
 
 
     

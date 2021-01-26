@@ -20,7 +20,7 @@ return (
   <form onSubmit={handleSubmit}>
       <h2 className="label-wrapper">
         <label htmlFor="new-todo-input" className="label__lg"> 
-          WHAT NEEDS TO BE DONE?
+          Write your Tasks!
         </label>
       </h2>
 

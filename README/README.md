@@ -1,17 +1,13 @@
-Jerilyn Womack
+# Project3
+Name: Peter Serrano
 
-This project is for a To Do List Application using react js.
+Overview of Project: This project is a To Do List Application using Redux and React Router.
+When using this application, you type in task for the app to keep track of. You will be able
+to keep track of your task and delete them however you want. You can also give your contact information.
 
-To use this app, the user types in a task and the more tasks they enter, the app
-will keep track of each task that is remaining or completed. The user can edit and 
-delete tasks as well. They are able to toggle between tabs that list the remaining
-tasks and completed tasks. This app also features a contact form in which the user
-can submit their name, email, and a message.
-
-Technologies used:
-.html, .css, .js, reactjs
+Technologies used: .html, .css, .js, reactjs
 
 Ideas for future improvement:
-1. Adding a Calendar feature
-2. Nav bar element that lets user view each feature one at a time.
-3. Improve design interface 
+1. Better design
+2. Add a drag and drop feature for images
+3. Add a notification feauture

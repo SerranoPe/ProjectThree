@@ -33,11 +33,11 @@ html {
 
 .submit{
   color: #fff;
-  background-color: #7bcfde;
+  background-color: #2dd13a;
   padding:10px;
-  border-color:#7bacde;
+  border-color:#2dd13a;
   padding: 0.8rem 1rem 0.7rem;
-  border: 0.2rem solid #7bacde;
+  border: 0.2rem solid #2dd13a;
   margin-top: 10px;
   width: 100%;
 }
@@ -63,18 +63,18 @@ html {
   
   .submit{
     color: #fff;
-    background-color: #7bcfde;
+    background-color: #2dd13a;
     padding:10px;
-    border-color:#7bacde;
+    border-color:#2dd13a;
     padding: 0.8rem 1rem 0.7rem;
-    border: 0.2rem solid #7bacde;
+    border: 0.2rem solid #2dd13a;
     margin-top: 10px;
   
   }
 }
 
 a{ text-decoration: none;
-color:#7bacde;
+color:#2dd13a;
 font-size: 30px;
 }
 
@@ -131,7 +131,7 @@ body {
   max-width: 68rem;
   margin: 0 auto;
   font: 1.6rem/1.25 'Futura-Heavy';
-  background-color: #6d6e71;
+  background-color: #ffffff;
   color: #4d4d4d;
 }
 
@@ -153,12 +153,12 @@ body {
   border: 0.2rem solid #7bacde;
   cursor: pointer;
   text-transform: capitalize;
-  color: #7bcfde;
+  color: #2dd13a;
 }
 .btn.toggle-btn {
   border-width: 1px;
-  border-color: #79abdc;
-  color: #7bcfde;
+  border-color: #2dd13a;
+  color: #2dd13a;
 }
 .btn.toggle-btn[aria-pressed="true"] {
   text-decoration: underline;
@@ -174,7 +174,7 @@ body {
 }
 .btn__primary {
   color: #fff;
-  background-color: #7bcfde;
+  background-color: #2dd13a;
 }
 .btn-group {
   display: flex;
@@ -260,7 +260,7 @@ body {
 }
 .input__lg {
   padding: 2rem;
-  border: 2px solid #79abdc;
+  border: 2px solid #2dd13a;
 }
 .input__lg:focus {
   border-color: #4d4d4d;

@@ -4,14 +4,14 @@ const Contact = () => {
   
   return(
     <form className="form">
-      <h2 className="label__lg">CONTACT US</h2>
-      <label>Name</label>
+      <h2 className="label__lg">HELLO! Please leave your information!</h2>
+      <label></label>
       <input className="name"placeholder="name"/>
 
-      <label>Email</label>
+      <label></label>
       <input className="email"placeholder="email"/>
 
-      <label>Message</label>
+      <label></label>
       <textarea className="message"placeholder="message"></textarea>
       <br></br>
       <button className="submit" type="submit">SUBMIT</button>
